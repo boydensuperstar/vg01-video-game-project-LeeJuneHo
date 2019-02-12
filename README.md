@@ -2,7 +2,7 @@
 
 ## Your Name
 
-__System: PC or Mac__
+__System: PC 
 
 __Target Age: 100 - 103 Year Olds__
 
