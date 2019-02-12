@@ -2,11 +2,11 @@
 
 ## Your Name
 
-__System: PC 
+__System: PC__
 
-__Target Age: 100 - 103 Year Olds__
+__Target Age: 15-21 Year Olds__
 
-__Game Genre: RPG__
+__Game Genre: Tower Defense (TD)__
 
 ### Game Mechanics
 - GM1
