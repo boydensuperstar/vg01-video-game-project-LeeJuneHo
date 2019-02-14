@@ -1,6 +1,6 @@
-# Video Game Project Title
+# Soldier Tower Defense (TD)
 
-## Your Name
+## Edwin Lee
 
 __System: PC__
 
@@ -9,46 +9,46 @@ __Target Age: 15-21 Year Olds__
 __Game Genre: Tower Defense (TD)__
 
 ### Game Mechanics
-- GM1
-- GM2
-- Etc
+- Lives: If zombies get passed through th level; the player will lose lives up to only 5 maximum lives.
+- Buying / Selling / Upgrading Soldiers (Towers): Players are able to spend money that is acquired by eliminating zombies to purchase / upgrade soldiers to help eliminate zombies. Also, players are able to sell their soldiers to purchase different soldiers or upgrade to better soldiers. 
+- Levels (Waves): Zombies come in waves and once the player eliminates the zombie wave, a new wave will begin up to a maximum of 24 waves. 
+- Food: Players are limited to a food capacity so they cannot spam the level with basic soldiers. They must strategically upgrade and place their towers to eliminate zombies efficiently.
 
 ### Characters
-- Game Character 1 - This character's description tells about the character's different aspects.  It also gives a little bit of the character's background.
-- Game Character 2 - This is the character's arch enemy and tells about this character's aspects.  It also gives a little bit of the character's background story. 
-- Etc Characters
+- Tower: Footmen - Basic soldier that holds an assault rifle. Shoots fast, but weak bullets. 
+- Tower: Grenadier - Soldier that throws grenades to hit an Area of Effect (AoE) on enemies. 
+- Tower: Sniper - Master of long range shooter. Shoots slow, but powerful bullets that penetrate armored.
 
 ### Environments
-- Environment 1 - This environment is where Character 1 grew up and found out that they were the chosen one to go do something and defeat some other character.  It looks like a place where the character would grow up, so I'd go on describing that. 
-- Environment 2- This environment is the first area where Character 1 needs to go to and get a sword, where they also meet an ancient spirit that decides to guide the character.  I'm also describing the style and look. 
-- Environment 3 - This is another environment and would be described. 
+In the beginning of the levels, the environment will be near the ocean. Midway through the game, the environment will change to a jungle area with dense trees and different shades of green. At the end of the game, the level will be located on top of a building to represent a helipad for the chopper.  
 
 ### The Story
-This is the story and it goes something like this.  A young character awakens one day to something bad happening.  Then as the bad thing is happening, the character finds out that they are the chosen one to go accomplish some goal.  Though there's an evil person that was acting as an obstacle to block the character from reaching their goal.  The character goes through the secret place, which is Environment 2, and finds a sword and a spirit to guide them. 
+Zombie Apocalypse breakout on an island where soldiers have 24 hours to make it to a chopper to escape. 
+There is one soldier, Levi, who finds out there is a breakout from a dying soldier through the radio. Levi was observing the ocean on top of a watch tower when he received this message. The base is located on an island far East and he must travel to the West where the chopper will arrive. While traveling, he will recruit/meet different soldiers and use their weapons to eliminate the zombies. 
 
 ### Unique Selling Points
-1. This game features the ability to use magic like your favorite generic wizard character!
-2. Features an extraordinarily amazing battle system. 
-3. This game also contains secret recipes to help you make food and decide what you're going to have for dinner. 
+1. This game features a shop where players may purchase soldiers. 
+2. This game features unique tower that have different ranges and attacks to help players eliminate zombies.
+3. This game also contains a food system where players can only acquire a certain amount of soldiers. 
 
 ### Competitive Projects
-1. *Legend of Zelda*
-2. *Chrono Trigger*
-3. *Overcooked*
+1. Plant vs Zombie
+2. Dungeon Defenders 
+3. Orcs Must Die
 
 ### Resources
 I'm planning to use the following resources to help me make my game.
-1. Some YouTube Channel that covers my specific genre that I'd name and put a YouTube link to
-2. Another general YouTube channel that I'd think would help me with things like UI and coding
-3. The title and link to a book I find for free through the library that I could use and is specific to my genre. 
-4. A Unity Store Asset of a game that is prebuilt so that I can buy it and then learn from the code... not copy it, just use it to learn from...
+1. YouTube Channel, Brackeys, for a tutorial on how to code Tower Defense game in Unity.
+2. YouTube Channel, inScopeStudios, for a tutorial on how to code Tower Defense game in Unity.
+3. YouTube Channel, quill18creates, for a tutorial on how to code Tower Defense game in Unity. 
+4. A Unity Store Asset, Tower Defense Template, to use to help and use as a reference in my Tower Defense game.
 
 ### Five Unity Store Assets I May Use
-1. Real Farts - <https://assetstore.unity.com/packages/audio/sound-fx/real-farts-132303>
-2. These Are Farts - <https://assetstore.unity.com/packages/audio/sound-fx/these-are-farts-101485>
-3. Disgusting Farts - <https://assetstore.unity.com/packages/audio/sound-fx/disgusting-farts-104708>
-4. Disgusting SFX Collection - <https://assetstore.unity.com/packages/audio/sound-fx/foley/disgusting-sfx-collection-33228>
-5. Fat Unicorn - <https://assetstore.unity.com/packages/3d/characters/animals/fat-unicorn-58661>
+1. Tower Defense Template - <https://assetstore.unity.com/packages/essentials/tutorial-projects/tower-defense-template-107692>
+2. 3D Tower Defense Kit - <https://assetstore.unity.com/packages/templates/3d-tower-defense-kit-3933>
+3. Tower Defense Starter Kit - <https://assetstore.unity.com/packages/templates/systems/tower-defense-starter-kit-128727>
+4. The Soldier 4 Directional Sprites - <https://assetstore.unity.com/packages/2d/characters/the-soldier-4-directions-sprites-94136>
+5. Low Poly Environment Pack - <https://assetstore.unity.com/packages/3d/environments/low-poly-environment-pack-v1-3-119111>
 
 ### Five Images
 1. ![alt text](https://nation.com.pk/digital_images/large/2018-04-09/the-unicorn-land-1523279289-3839.jpg "Unicorn Land")
