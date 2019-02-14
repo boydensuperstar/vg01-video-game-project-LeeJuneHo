@@ -4,7 +4,7 @@
 
 __System: PC__
 
-__Target Age: 15-21 Year Olds__
+__Target Age: 18-21 Year Olds__
 
 __Game Genre: Tower Defense (TD)__
 
