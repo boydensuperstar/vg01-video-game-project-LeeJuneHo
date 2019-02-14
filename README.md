@@ -24,7 +24,7 @@ In the beginning of the levels, the environment will be near the ocean. Midway t
 
 ### The Story
 Zombie Apocalypse breakout on an island where soldiers have 24 hours to make it to a chopper to escape. 
-There is one soldier, Levi, who finds out there is a breakout from a dying soldier through the radio. Levi was observing the ocean on top of a watch tower when he received this message. The base is located on an island far East and he must travel to the West where the chopper will arrive. While traveling, he will recruit/meet different soldiers and use their weapons to eliminate the zombies. 
+There is a lone Japanese soldier, Levi, who finds out there is a breakout from a dying soldier through the radio. Levi was observing the ocean on top of a watch tower when he received this message. The base is located on an island far East and he must travel to the West where the chopper will arrive. While traveling, he will recruit/meet different soldiers and use their weapons to eliminate the zombies. 
 
 ### Unique Selling Points
 1. This game features a shop where players may purchase soldiers. 
@@ -53,6 +53,5 @@ I'm planning to use the following resources to help me make my game.
 ### Five Images
 1. Island![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alcatraz_Island_as_seen_from_the_East.jpg/1200px-Alcatraz_Island_as_seen_from_the_East.jpg)
 2. Watch Tower![alt=text](http://www.miframsecurity.com/wp-content/uploads/2016/07/ramgan-security-product-mifram-001.jpg)
-3. Jungle Environment![alt-text](https://www.stripes.com/polopoly_fs/1.471424.1496304962!/image/image.jpg_gen/derivatives/landscape_900/image.jpg)
-4. Levi![alt-text](https://i.pinimg.com/originals/7d/c6/05/7dc605c976fe64a4cbe5d75b9a79e41b.jpg)
+3. Jungle Environment![alt-text](https://www.stripes.com/polopoly_fs/1.471424.1496304962!/image/image.jpg_gen/derivatives/landscape_900/image.jpg)4. Levi![alt-text](https://i.pinimg.com/originals/7d/c6/05/7dc605c976fe64a4cbe5d75b9a79e41b.jpg)
 5. Chopper![alt-text](https://upload.wikimedia.org/wikipedia/commons/2/20/Mi-17Afganistan.jpg)
